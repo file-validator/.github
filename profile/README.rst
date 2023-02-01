@@ -71,19 +71,24 @@ Features
 
 .. _puremagic: https://github.com/cdgriffith/puremagic
 
+.. |   line |
+
+* File validation simultaneously with all four libraries
+
+
 .. | line |
 
-* File validation with Size
+* File Size validation 
+
+.. |  line |
+
+* Provide ``ValidatedFilefield`` and ``FileValidator`` for file validation in Django
 
 .. |  line |
 
 * Supporting for all `mimes`_
 
 .. _mimes: https://www.iana.org/assignments/media-types/media-types.xhtml
-
-.. |   line |
-
-* File validation simultaneously with all four libraries
 
 
 Documentation
