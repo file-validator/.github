@@ -55,6 +55,10 @@ validate files based on extension, size, mimes and magic numbers
 Features
 --------
 
+* File validation based on MIME, type, extension, magic numbers and size 
+
+.. | line |
+
 * File validation using the `filetype`_ library
 
 .. _filetype: https://github.com/h2non/filetype.py
