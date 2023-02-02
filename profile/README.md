@@ -51,6 +51,9 @@ Can report the problem through [this link](https://github.com/file-validator/fil
 
 Can you ask your questions through [this link](https://github.com/orgs/file-validator/discussions)
 
+## Where to read the documentation? 📄
+
+Can you read the documentation through [this link](https://github.com/orgs/file-validator/discussions)
 
 ## Credits
 
