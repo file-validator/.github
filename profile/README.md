@@ -9,7 +9,7 @@
 [![pylint](https://mperlet.github.io/pybadge/badges/10.svg)](https://github.com/file-validator/file-validator/actions)
 [![Downloads](https://static.pepy.tech/personalized-badge/file-validator?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/file-validator)
 [![Badge](https://i2pget6bpxrn.runkit.sh)](https://file-validator.github.io/)
-[![codefactor](https://www.codefactor.io/repository/github/rzashakeri/file-validator/badge)](https://www.codefactor.io/repository/github/rzashakeri/file-validator)
+[![CodeFactor](https://www.codefactor.io/repository/github/file-validator/file-validator/badge)](https://www.codefactor.io/repository/github/file-validator/file-validator)
 [![black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 
